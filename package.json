@@ -1,5 +1,5 @@
 {
-	"name": "@xotoscript/xotoscript-refactor-remove-comment",
+	"name": "@xotosphere/xotoscript-refactor-remove-comment",
 	"version": "0.0.1",
 	"scripts": {
 		"boot": "yarn install && yarn run compile",

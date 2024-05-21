@@ -39,9 +39,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@xotoscript/xotoscript-refactor-remove-comment@workspace:.":
+"@xotosphere/xotoscript-refactor-remove-comment@workspace:.":
   version: 0.0.0-use.local
-  resolution: "@xotoscript/xotoscript-refactor-remove-comment@workspace:."
+  resolution: "@xotosphere/xotoscript-refactor-remove-comment@workspace:."
   dependencies:
     "@types/node": ^18.15.5
     change-case: ^4.1.2
